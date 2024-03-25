@@ -12,3 +12,10 @@
     color: red;
     font-size: xx-large;
 }
+h1::first-letter{
+    color: red;
+    font-size: xx-large;
+}
+.fl::first-line{
+    background-color: yellow;
+}
