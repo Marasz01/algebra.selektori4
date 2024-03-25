@@ -31,3 +31,8 @@ h1::first-letter{
     color: red;
     font-size: xx-large;
 }
+
+::selection{
+    color: red;
+    background: yellow;
+}
