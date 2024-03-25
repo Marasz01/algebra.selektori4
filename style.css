@@ -1,0 +1,14 @@
+.pip::after{
+    content: "- Zapamti ovo!!";
+    color: red;
+    background-color: yellow;
+}
+.pp::before{
+    content: "Zapamti ovo-->";
+    color: red;
+    background-color: yellow;
+}
+.txt::first-letter{
+    color: red;
+    font-size: xx-large;
+}
