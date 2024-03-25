@@ -19,3 +19,15 @@ h1::first-letter{
 .fl::first-line{
     background-color: yellow;
 }
+.lotr::first-letter{
+    color: red;
+    font-size: xx-large;
+}
+.lotr::first-line{
+    color: blue;
+    font-variant: small-caps;
+}
+::marker{
+    color: red;
+    font-size: xx-large;
+}
